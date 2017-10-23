@@ -1,0 +1,58 @@
+.patterned {
+    position: relative;
+}
+.rushbutton {
+    opacity: 0;
+    position: absolute;
+    width: 33%;
+    left: 33%;
+    padding: 20px;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    background-color: #55a7b2; 
+    border: 1px solid #4c98a4;
+    border-radius: 3px;
+    margin-top: -50px;
+    font-size: 100%;
+    transition: all 200ms;
+    top: 50%;
+    cursor: pointer;
+}
+.patterned:hover .rushbutton {
+    margin-top: 0;
+    opacity: 1;
+
+}
+
+.housingbutton {
+    /*opacity: 0.5;*/
+    /*position: relative;*/
+    background-color: #777777;
+    width: 80%;
+    padding-top: 80px;
+    padding: 20px;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 2px;
+    font-size: 100%;
+    /*transition: opacity 200ms;*/
+    /*top: 50%;*/
+}
+
+.cover {
+    max-width:50% !important;
+    /*height:auto;*/
+    /*display:block;*/
+}
+.coverRush {
+    max-width:80% !important;
+    /*height:auto;*/
+    /*display:block;*/
+}
+
+
+.socialMediaIcons{
+    padding-left:30px;
+}
