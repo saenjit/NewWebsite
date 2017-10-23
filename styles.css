@@ -42,7 +42,7 @@
 }
 
 .cover {
-    max-width:50% !important;
+    max-width:55% !important;
     /*height:auto;*/
     /*display:block;*/
 }
@@ -51,8 +51,29 @@
     /*height:auto;*/
     /*display:block;*/
 }
+.coverHistory{
+    max-width:60% !important;
+    /*height:auto;*/
+    /*display:block;*/
+}
 
 
 .socialMediaIcons{
     padding-left:30px;
+}
+
+.brotherRow{
+    width: 91.3%; 
+    margin-right:4.35%;
+    clear: left;
+}
+#brotherSection{
+    background-color: #cbcbcb;
+    display: block;
+}
+.test{
+    vertical-align:middle;
+}
+.imgtest{
+    display: inline-block;
 }
