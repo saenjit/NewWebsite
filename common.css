@@ -277,4 +277,16 @@ nav li a[href="donate.php"] {
   padding: 20px;
   overflow: hidden;
 }
+.donateBtn {
+  background-color: #a29061;
+  width: 150px;
+  color: white;
+  font-size: 10px;
+  text-align: center;
+  line-height: 1.5;
+  letter-spacing: 1px;
+  padding: 5px;
+  border-radius: 4px;
+  text-align: center;
+}
 
